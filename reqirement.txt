@@ -6,4 +6,3 @@ seaborn
 streamlit
 joblib
 python-dateutil
-streamlit
